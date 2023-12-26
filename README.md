@@ -1,8 +1,11 @@
-# React + Vite
+# Feed de comentários usando React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Veja o resultado de como ficou:
 
-Currently, two official plugins are available:
+![Screenshot_2023-12-26_13-24-02](https://github.com/anthonymnf/feedComments/assets/115318191/96f5d3e9-1fef-4fa6-af8f-efdf2ad8a8ee)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Depois de adicionado comentário:
+
+![Screenshot_2023-12-26_13-24-35](https://github.com/anthonymnf/feedComments/assets/115318191/276671f9-e77c-4d8a-bcca-03b68c094e7b)
+
+

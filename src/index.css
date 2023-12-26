@@ -4,12 +4,20 @@
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 }
 
+body {
+  background-color: #f4faff;
+}
+
 #app {
-  background-color: #eaeaea;
-  border-radius: 0.25rem;
+  background-color: #051923;
+  color: #f4faff;
+  border-radius: 0.5rem;
   margin: 2rem auto;
   padding: 2rem 4rem;
   max-width: 32rem;
+  -webkit-box-shadow: 8px 8px 5px 0px rgba(91, 86, 97, 0.14);
+  -moz-box-shadow: 8px 8px 5px 0px rgba(91, 86, 97, 0.14);
+  box-shadow: 8px 8px 5px 0px rgba(91, 86, 97, 0.14);
 }
 
 label {
@@ -21,8 +29,17 @@ input,
 textarea,
 button {
   display: block;
+  font-weight: 500;
+  background-color: #f4faff;
   font-size: 1rem;
   margin-bottom: 1rem;
   padding: 0.5rem;
   width: 100%;
+}
+
+button {
+  background-color: #449dd1;
+  cursor: pointer;
+  border: 0;
+  color: #f4faff;
 }
